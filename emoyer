@@ -19,3 +19,10 @@ Q17: D, if x > 5:
 Q18: D, 2.5
 Q19: C, 5
 Q20: B, True
+
+Code Tracing:
+Q1: print(sum) = 4, 9
+Q2: print(product) = 7, 8
+Q3: print(result) = 10
+Q4: print(result) = 55
+Q5: print(sum_val) = 195
