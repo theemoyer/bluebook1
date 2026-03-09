@@ -2,3 +2,20 @@ Python Basics
 Q1: B, False
 Q2: D, split()
 Q3: C, ['a', 'b', 'c']
+Q4: D, "
+Q5: A, hexxo
+Q6: D, !
+Q7: C, int('123')
+Q8: C, 123456
+Q9: B, 8
+Q10: D, reverse(list)
+Q11: A, while
+Q12: C, dict.remove('key')
+Q13: B, A special type representing the absence of value
+Q14: B, 'a' 'b' 'c'
+Q15:
+Q16:
+Q17:
+Q18:
+Q19:
+Q20:
