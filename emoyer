@@ -13,9 +13,9 @@ Q11: A, while
 Q12: C, dict.remove('key')
 Q13: B, A special type representing the absence of value
 Q14: B, 'a' 'b' 'c'
-Q15:
-Q16:
-Q17:
-Q18:
-Q19:
-Q20:
+Q15: D, &&
+Q16: D, Hello, Alice!
+Q17: D, if x > 5:
+Q18: D, 2.5
+Q19: C, 5
+Q20: B, True
